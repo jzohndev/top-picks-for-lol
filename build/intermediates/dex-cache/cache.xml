@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jzohn\Documents\jzohndev - programming\android\TopLoLPicks\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Jzohn\Documents\jzohndev - programming\android\TopLoLPicks\app\build\intermediates\pre-dexed\debug\classes-769b41dbfe7054ff40cc69db05859e2ea343e8ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jzohn\Documents\jzohndev - programming\android\TopLoLPicks\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Jzohn\Documents\jzohndev - programming\android\TopLoLPicks\app\build\intermediates\pre-dexed\debug\classes-b6255e28b73c9d8d40e23590bf18ec5312bffd5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jzohn\Documents\jzohndev - programming\android\TopLoLPicks\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Jzohn\Documents\jzohndev - programming\android\TopLoLPicks\app\build\intermediates\pre-dexed\debug\classes-4f8c05f1d0e8aa67ff2afbde84d63c35f39136fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jzohn\Documents\jzohndev - programming\android\TopLoLPicks\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Jzohn\Documents\jzohndev - programming\android\TopLoLPicks\app\build\intermediates\pre-dexed\debug\classes-ecb0556f824c90ff1fe1fd2644337693b8f88219.jar" />
+    </item>
+
+</items>
